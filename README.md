@@ -8,9 +8,9 @@ I design and build scalable systems across desktop, services, and web platforms 
 
 ## 🏗 What I Build
 
+- 🌐 Web APIs & MVC Applications
 - 🖥 Desktop Applications (.NET)
 - ⚙️ Windows Services
-- 🌐 Web APIs & MVC Applications
 - 🧱 Clean Architecture-based systems
 - 🔄 CQRS-driven application design
 
@@ -48,6 +48,7 @@ I design and build scalable systems across desktop, services, and web platforms 
 **Cloud & DevOps**
 - Azure
 - CI/CD Pipelines
+- AWS
 
 ---
 
